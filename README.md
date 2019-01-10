@@ -4,7 +4,7 @@
 
 ## To run the program:
 
-#### Install .Netframework in computer and configure variable
+#### Install .Netframework in computer and configure environment variable in settings
 
 #### Clone the project to local computer and cd into GlobalX Take Home directory
 
