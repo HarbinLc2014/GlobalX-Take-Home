@@ -23,3 +23,5 @@
 #### Run command `Install-Package NUnit -Version 3.8.1` && `Install-Package NUnit3TestAdapter -Version 3.8.0`
 
 #### You can now test the function using Visual Studio.
+
+#### Source code for Unit Testing is in NameSorterUnitTest.cs.
